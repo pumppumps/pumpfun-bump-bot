@@ -1,1 +1,0 @@
-# pumpfun-bump-bot
