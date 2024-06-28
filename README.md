@@ -6,17 +6,17 @@ It can be used to be displayed on the main page of pump.fun site.
 
 # Video Demonstration 
 
-https://github.com/pumpdevs/PumpFun-Bump-Bot/assets/173959111/489b1389-e076-47c6-9fd3-845d0f9ef67a
+https://github.com/pumppumps/pumpfun-bump-bot/assets/174147157/bb8c6399-e54d-4a3d-93c6-92a29b8e58db
 
 ## Download and Setup
  
 If you have git installed on your computer you can fetch the content of this repository with the command        
  
 ``` 
-git clone https://github.com/pumpdevs/PumpFun-Bump-Bot.git
+git clone https://github.com/pumppumps/pumpfun-bump-bot.git
 ``` 
  
-Else, you can download the repository in a zip here : https://github.com/pumpdevs/PumpFun-Bump-Bot/archive/refs/heads/master.zip
+Else, you can download the repository in a zip here : https://github.com/pumppumps/pumpfun-bump-bot/archive/refs/heads/master.zip
 
 ## Environment setup
  
